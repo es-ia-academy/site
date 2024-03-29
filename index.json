@@ -3,7 +3,7 @@
     @media screen and (min-width:0px){#LjSGbbC{position:sticky;top:0;z-index:100;}}
     @media screen and (min-width:0px){#PxjDkrY{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:50px;}}
     @media screen and (min-width:0px){#nDCkCxn{}}
-    @media screen and (min-width:0px){#jAuuxmh{height:100px;width:10;object-fit:contain;}}
+    @media screen and (min-width:0px){#jAuuxmh{height:100px;width:100px;object-fit:contain;aspect-ratio:1/1;}}
     @media screen and (min-width:0px){#JikmqwH{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
     @media screen and (min-width:0px){#yOxLBZa{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
     @media screen and (min-width:0px){#gcHOXmJ{height:auto}}
