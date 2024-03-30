@@ -1,20 +1,55 @@
-<section id="LjSGbbC" data-type="section"><style id="blpXISM" type="text/css" data-type="css">
+<section id="qnsmNCA" data-type="section">
+      <style id="chPyCgH" type="text/css" data-type="css">
         
-    @media screen and (min-width:0px){#LjSGbbC{position:sticky;top:0;z-index:100;height:100px;width:100%;}}
-    @media screen and (min-width:0px){#PxjDkrY{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:50px;}}
-    @media screen and (min-width:0px){#nDCkCxn{}}
-    @media screen and (min-width:0px){#jAuuxmh{height:100px;width:100px;object-fit:contain;aspect-ratio:1/1;}}
-    @media screen and (min-width:0px){#JikmqwH{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
-    @media screen and (min-width:0px){#yOxLBZa{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
-    @media screen and (min-width:0px){#gcHOXmJ{height:auto}}
-    @media screen and (min-width:0px){#SmNSseN{height:auto;padding:10px;border:none;border-radius:10px;}}
+    @media screen and (min-width:0px){#qnsmNCA{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#JtwBKQW{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
+    @media screen and (min-width:0px){#TtrnBBx{}}
+    @media screen and (min-width:0px){#dGpZaQN{height:100px;width:auto;object-fit:contain}}
+    @media screen and (min-width:0px){#jJLKdsC{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    @media screen and (min-width:0px){#HXZXVIB{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
+    @media screen and (min-width:0px){#tsGgbLb{height:auto;}}
+    @media screen and (min-width:0px){#MUWRyMv{height:auto;padding:10px;border:none;border-radius:10px;}}
+    @media screen and (max-width:640px){#jJLKdsC{display:none;}}
+    @media screen and (max-width:640px){#JtwBKQW{grid-template-columns:repeat(2, auto); place-content:space-around;}}
+    
+    
+    
+      </style>
+      
+        <div id="JtwBKQW" data-type="raw-html"><div id="TtrnBBx">
+  <img id="dGpZaQN" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
+</div>
 
-    @media screen and (max-width:640px){#JikmqwH{display:none;}}
-    @media screen and (max-width:640px){#PxjDkrY{grid-template-columns:repeat(2, auto); place-content:space-around}}
-    
-    
-    
-      </style><div id="PxjDkrY" data-type="grid"><div id="nDCkCxn"><img id="jAuuxmh" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy"></div><div id="JikmqwH"><a id="kuQXwTP" contenteditable="true" href="https://www">INICIO</a><a id="OpcTGTP" contenteditable="true" href="https://www">IA GENERATIVA</a><a id="njZgWvQ" contenteditable="true" href="https://www">FORMACIONES</a><a id="bLyDbyY" contenteditable="true" href="https://www">CONTACTO</a><a id="NvGRzCa" contenteditable="true" href="https://www">BLOG</a></div><div id="gcHOXmJ"><button id="SmNSseN">MENU</button></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="DoaSYKf" data-type="section" class="grid-item"><style id="bNmqQWZ" type="text/css" data-type="css">@media screen and (min-width:0px){#DoaSYKf{width:100%;height:85vh;position:relative;}}
+<div id="jJLKdsC">
+  <a id="qQPlFfn" contenteditable="true" href="https://www">HOME</a>
+  <a id="VhqBLWn" contenteditable="true" href="https://www">ABOUT</a>
+  <a id="dqaVifo" contenteditable="true" href="https://www">SERVICES</a>
+  <a id="gYHNSFd" contenteditable="true" href="https://www">CONTACT</a>
+  <a id="sJKTisn" contenteditable="true" href="https://www">BLOG</a>
+</div>
+
+<div id="tsGgbLb">
+  <button id="MUWRyMv">MENU</button>
+   <div class="select">
+    <span class="select__flag" aria-hidden="true"></span>
+    <select class="select__input" name="country-selector" id="country-selector">
+      
+      <option value="IT">Italy</option>
+      <option value="PT">Portugal</option>
+      <option value="ES" selected="">Spain</option>
+    </select>
+        
+    <svg class="select__arrow" aria-hidden="true" viewBox="0 0 16 16"><polyline points="3.5,6.5 8,11 12.5,6.5" stroke-width="2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></polyline></svg>
+  </div>
+
+</div></div>
+
+        <script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello')}</script>
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
+  </section><section id="DoaSYKf" data-type="section" class="grid-item"><style id="bNmqQWZ" type="text/css" data-type="css">@media screen and (min-width:0px){#DoaSYKf{width:100%;height:85vh;position:relative;}}
     @media screen and (min-width:0px){#LjAThih{width:100%;height:100%;position:relative}}
     @media screen and (min-width:0px){#wtlRsXL{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
     @media screen and (min-width:0px){#nyCAYLf{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
