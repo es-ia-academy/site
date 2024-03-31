@@ -23,12 +23,10 @@
 <div id="qzBuTcc">
   <a id="keQVLFv" contenteditable="true" href="https://www">CHAT ONLINE</a>
   <div id="dropdown_div">
-    <a id="dropdown_open" contenteditable="true" href="#" onclick="dropdown_open('dropdown_list')">Open</a>
-    <div id="dropdown_list" style="display:none">
-      <a href="#" id="fr">
-        <img src="https://flagicons.lipis.dev/flags/1x1/fr.svg">
-        Francais 
-      </a>
+    <a id="dropdown_open" href="#" onclick="dropdown_open('dropdown_list')">Open</a>
+    <div id="dropdown_list" style="display:grid">
+      <a href="#" id="a-fr">
+        <img id="img-fr" src="https://flagicons.lipis.dev/flags/1x1/fr.svg">FR</a>
     </div>
   </div>
 </div></div><script id="acdfr1457" data-type="raw-js">function dropdown_open(dropdown_id) {
