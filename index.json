@@ -30,9 +30,9 @@
     </a>
     <div id="dropdown_list" style="display:grid">
       <a id="a-fr" contenteditable="true" href="#">
-        <img id="img-fr" src="https://flagicons.lipis.dev/flags/1x1/es.svg">ES
-        <img id="img-fr" src="https://flagicons.lipis.dev/flags/1x1/es.svg">IT
-        <img id="img-fr" src="https://flagicons.lipis.dev/flags/1x1/es.svg">PT
+        <img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg">ES
+        <img id="img-it" src="https://flagicons.lipis.dev/flags/1x1/es.svg">IT
+        <img id="img-pt" src="https://flagicons.lipis.dev/flags/1x1/es.svg">PT
       </a>
     </div>
   </div>
