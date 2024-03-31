@@ -23,7 +23,7 @@
   <div id="dropdown_div">
     <a id="dropdown_open" href="#" onclick="dropdown_open('dropdown_list')">Open</a>
     <div id="dropdown_list" style="display:none">
-      <a href="#" id="123">
+      <a href="#" id="fr">
         <img src="https://flagicons.lipis.dev/flags/1x1/fr.svg"> Francais </a>
     </div>
   </div>
