@@ -23,9 +23,9 @@
 <div id="qzBuTcc">
   <a id="keQVLFv" contenteditable="true" href="https://www">CHAT ONLINE</a>
   <div id="dropdown_div">
-    <a id="dropdown_open" href="#" onclick="dropdown_open('dropdown_list')">Open</a>
+    <a id="dropdown_open" contenteditable="true" href="#" onclick="dropdown_open('dropdown_list')">Open</a>
     <div id="dropdown_list" style="display:none">
-      <a href="#" id="fr" contenteditable="true">
+      <a href="#" id="fr">
         <img src="https://flagicons.lipis.dev/flags/1x1/fr.svg"> Francais </a>
     </div>
   </div>
