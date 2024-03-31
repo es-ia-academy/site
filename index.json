@@ -1,4 +1,6 @@
-<section id="MidhHYg" data-type="section"><style id="zazcvJe" type="text/css" data-type="css">@media screen and (min-width:0px){#a-es{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
+<section id="MidhHYg" data-type="section"><style id="zazcvJe" type="text/css" data-type="css">@media screen and (min-width:0px){#a-it{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
+@media screen and (min-width:0px){#img-it{object-fit:contain;height:20px;width:20px;}}
+@media screen and (min-width:0px){#a-es{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
 @media screen and (min-width:0px){#img-es{object-fit:contain;height:20px;width:20px;}}
 @media screen and (min-width:0px){#a-fr{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
 @media screen and (min-width:0px){#img-fr{object-fit:contain;height:20px;width:20px;}}
@@ -28,15 +30,12 @@
   <a id="keQVLFv" contenteditable="true" href="https://www">CHAT ONLINE</a>
   <div id="dropdown_div">
     <a id="dropdown_open" contenteditable="true" href="#" onclick="dropdown_open('dropdown_list')">
-        <img id="img-fr" src="https://flagicons.lipis.dev/flags/1x1/fr.svg">FR
-    </a>
-    <div id="dropdown_list" style="display:grid">
+      <img id="img-fr" src="https://flagicons.lipis.dev/flags/1x1/fr.svg">FR </a>
+    <div id="dropdown_list" style="display:none">
       <a id="a-es" contenteditable="true" href="#">
-        <img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg">ES
-      </a>
+        <img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg">ES </a>
       <a id="a-it" contenteditable="true" href="#">
-        <img id="img-it" src="https://flagicons.lipis.dev/flags/1x1/it.svg">IT
-      </a>
+        <img id="img-it" src="https://flagicons.lipis.dev/flags/1x1/it.svg">IT </a>
     </div>
   </div>
 </div></div><script id="acdfr1457" data-type="raw-js">function dropdown_open(dropdown_id) {
