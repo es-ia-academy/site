@@ -35,7 +35,7 @@
       <a id="a-es" contenteditable="true" href="#">
         ES <img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg"></a>
       <a id="a-it" contenteditable="true" href="#">
-        <img id="img-it" src="https://flagicons.lipis.dev/flags/1x1/it.svg">IT </a>
+       IT  <img id="img-it" src="https://flagicons.lipis.dev/flags/1x1/it.svg"></a>
     </div>
   </div>
 </div></div><script id="acdfr1457" data-type="raw-js">function dropdown_open(dropdown_id) {
