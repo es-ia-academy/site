@@ -25,10 +25,12 @@
 <div id="qzBuTcc">
   <a id="keQVLFv" contenteditable="true" href="https://www">CHAT ONLINE</a>
   <div id="dropdown_div">
-    <a id="dropdown_open" href="#" onclick="dropdown_open('dropdown_list')">Open</a>
+    <a id="dropdown_openr" contenteditable="true" href="#" onclick="dropdown_open('dropdown_list')">
+        <img id="img-fr" src="https://flagicons.lipis.dev/flags/1x1/fr.svg">FR
+    </a>
     <div id="dropdown_list" style="display:grid">
       <a id="a-fr" contenteditable="true" href="#">
-        <img id="img-fr" src="https://flagicons.lipis.dev/flags/1x1/fr.svg">FR 
+        <img id="img-fr" src="https://flagicons.lipis.dev/flags/1x1/fr.svg">FR
       </a>
     </div>
   </div>
