@@ -1,4 +1,6 @@
-<section id="MidhHYg" data-type="section"><style id="zazcvJe" type="text/css" data-type="css">@media screen and (min-width:0px){#a-fr{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
+<section id="MidhHYg" data-type="section"><style id="zazcvJe" type="text/css" data-type="css">@media screen and (min-width:0px){#a-es{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
+@media screen and (min-width:0px){#img-es{object-fit:contain;height:20px;width:20px;}}
+@media screen and (min-width:0px){#a-fr{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
 @media screen and (min-width:0px){#img-fr{object-fit:contain;height:20px;width:20px;}}
 @media screen and (min-width:0px){#dropdown_list{position: absolute;background: white;}}
 @media screen and (min-width:0px){#dropdown_open{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
