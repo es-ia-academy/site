@@ -1,7 +1,7 @@
-<section id="MidhHYg" data-type="section"><style id="zazcvJe" type="text/css" data-type="css">@media screen and (min-width:0px){#a-fr{background:red;width:10}}
+<section id="MidhHYg" data-type="section"><style id="zazcvJe" type="text/css" data-type="css">@media screen and (min-width:0px){#a-fr{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px}}
 @media screen and (min-width:0px){#img-fr{object-fit:contain;height:20px;width:20px;}}
 @media screen and (min-width:0px){#dropdown_list{position: absolute;background: white;}}
-@media screen and (min-width:0px){#dropdown_open{background: white;padding: 0 15px;color:black;font-size: 14px;border-radius: 10px;text-underline-position: under;height: 50px;display: grid;place-content: center;}}
+@media screen and (min-width:0px){#dropdown_open{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width:10}}
 @media screen and (min-width:0px){#keQVLFv{background: white;padding: 0 15px;color:black;font-size: 14px;border-radius: 10px;text-underline-position: under;height: 50px;display: grid;place-content: center;}}
 @media screen and (min-width:0px){#MidhHYg{position:sticky;top:0;z-index:100;}}
     @media screen and (min-width:0px){#RNwbwYr{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
