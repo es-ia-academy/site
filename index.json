@@ -24,7 +24,7 @@
   <a id="imUWaZN" contenteditable="true" href="https://www">BLOG</a>
 </div>
 <div id="qzBuTcc">
-  <button id="bVlMLPg">MENU</button>
+  <a id="keQVLFp" contenteditable="true" href="https://www">CALL NOW</a>
 </div></div><script id="acdfr1457" data-type="raw-js">function dropdown_open(dropdown_id) {
   var dropdown = document.getElementById(dropdown_id);
   if (dropdown.style.display === "none" || !dropdown.style.display) {
