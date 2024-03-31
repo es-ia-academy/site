@@ -21,14 +21,12 @@
 <div id="qzBuTcc">
   <a id="keQVLFv" contenteditable="true" href="https://www">CALL NOW</a>
   <div id="dropdown_div">
-        <a id="dropdown_open" href="#" onclick="dropdown_open('dropdown_list')">Open</a>
-        <div id="dropdown_list" style="display:none">
-            <a href="#" id="123">
-                <img src="https://flagicons.lipis.dev/flags/1x1/fr.svg">
-                Francais
-            </a>
-        </div>
+    <a id="dropdown_open" href="#" onclick="dropdown_open('dropdown_list')">Open</a>
+    <div id="dropdown_list" style="display:none">
+      <a href="#" id="123">
+        <img src="https://flagicons.lipis.dev/flags/1x1/fr.svg"> Francais </a>
     </div>
+  </div>
 </div></div><script id="acdfr1457" data-type="raw-js">function dropdown_open(dropdown_id) {
   var dropdown = document.getElementById(dropdown_id);
   if (dropdown.style.display === "none" || !dropdown.style.display) {
