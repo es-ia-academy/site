@@ -1,7 +1,9 @@
-<section id="LxyIqZS" data-type="section"><style id="OogasER" type="text/css" data-type="css">#LxyIqZS{
-    position:sticky;
-    z-index:1;
+<section id="LxyIqZS" data-type="section"><style id="OogasER" type="text/css" data-type="css">#LxyIqZS {
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
+
 #menu-header {
   display: grid;
   grid-template-columns: auto auto auto;
