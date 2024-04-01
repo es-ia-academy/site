@@ -83,7 +83,7 @@
       alert('hello')
     }
 
-  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="LxyIqZS" data-type="section"><style id="OogasER" type="text/css" data-type="css">#menu {
+  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="LxyIqZS" data-type="section"><style id="OogasER" type="text/css" data-type="css">#menu-header {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   width: 100%;
