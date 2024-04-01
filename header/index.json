@@ -90,6 +90,7 @@
   background: black;
   color: white;
   height: 100px;
+  gap: 100px;
   place-content: center;
 }
 
