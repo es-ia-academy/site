@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: auto auto auto;
   width: 100%;
-  background: black;
+  background: #263238;
   height: 100px;
   gap: 100px;
   color: white;
