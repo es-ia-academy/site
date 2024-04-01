@@ -87,7 +87,12 @@
   <div id="menu-left">
     <a id="menu-logo" contenteditable="true" href="https://www">LOGO</a>
   </div>
-  <div id="menu-center"></div>
+  <div id="menu-center">
+    <a id="menu-logo" contenteditable="true" href="https://www">LINK1</a>
+    <a id="menu-logo" contenteditable="true" href="https://www">LINK2</a>
+    <a id="menu-logo" contenteditable="true" href="https://www">LINK3</a>
+    <a id="menu-logo" contenteditable="true" href="https://www">LINK4</a>
+  </div>
   <div id="menu-right"></div>
 </div>
 </div><script id="htJiGAC" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
