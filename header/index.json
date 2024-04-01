@@ -88,14 +88,13 @@
     <a id="menu-logo" contenteditable="true" href="https://www">LOGO</a>
   </div>
   <div id="menu-center">
-    <a id="menu-logo" contenteditable="true" href="https://www">INICIO</a>
-    <a id="menu-logo" contenteditable="true" href="https://www">IA
-      GENERATIVA</a>
-    <a id="menu-logo" contenteditable="true" href="https://www">FORMACIONES</a>
-    <a id="menu-logo" contenteditable="true" href="https://www">CONTACTO</a>
+    <a id="inicio" contenteditable="true" href="https://www">INICIO</a>
+    <a id="ia" contenteditable="true" href="https://www">IA GENERATIVA</a>
+    <a id="formaciones" contenteditable="true" href="https://www">FORMACIONES</a>
+    <a id="contacto" contenteditable="true" href="https://www">CONTACTO</a>
   </div>
   <div id="menu-right">
-    <a id="menu-logo" contenteditable="true" href="https://www">LINK1</a>
+    <a id="" contenteditable="true" href="https://www">LINK1</a>
     <a id="menu-logo" contenteditable="true" href="https://www">LINK1</a>
   </div>
 </div>
