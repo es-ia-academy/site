@@ -15,6 +15,10 @@
   display: flex;
   place-content: center;
 }
+#menu-logo {
+    height:100px;
+    width:100px;
+}
 
 #menu-center {
   gap: 15px;
@@ -28,7 +32,7 @@
   place-content: center;
 }</style><div id="nXErGzK" data-type="html"><div id="menu-header">
   <div id="menu-left">
-    <img id="menu-logo" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy">
+    <img id="menu-logo" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/ia-academy-ico_100x100.png" data-type="img-grid" loading="lazy">
     <a id="menu-title" contenteditable="true" href="https://www">IA Academy </a>
   </div>
   <div id="menu-center"><a id="inicio" contenteditable="true" href="https://www">IA GENERATIVA</a><a id="formaciones" contenteditable="true" href="https://www">FORMACIONES</a><a id="contacto" contenteditable="true" href="https://www">CHAT</a></div>
