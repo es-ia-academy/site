@@ -1,3 +1,15 @@
+<section id="QnrEacU" data-type="section">
+  <style id="jDCZNlW" type="text/css" data-type="css"></style>
+  <div id="PoaDTBZ" data-type="html">
+      <div id="logo">
+          
+      </div>
+  </div>
+  <script id="IupIwvc" data-type="js"></script>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
 <section id="DoaSYKf" data-type="section" class="grid-item"><style id="bNmqQWZ" type="text/css" data-type="css">@media screen and (min-width:0px){#DoaSYKf{width:100%;height:85vh;position:relative;}}
     @media screen and (min-width:0px){#LjAThih{width:100%;height:100%;position:relative}}
     @media screen and (min-width:0px){#wtlRsXL{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
