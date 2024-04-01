@@ -7,11 +7,6 @@
   gap: 100px;
   place-content: center;
 }
-
-#menu-header a{
-    color:white;
-}
-
 #menu-right {
   gap: 15px;
   display: flex;
