@@ -89,13 +89,13 @@
   </div>
   <div id="menu-center">
     <a id="inicio" contenteditable="true" href="https://www">INICIO</a>
-    <a id="ia" contenteditable="true" href="https://www">IA GENERATIVA</a>
+    <a id="ia-generativa" contenteditable="true" href="https://www">IA GENERATIVA</a>
     <a id="formaciones" contenteditable="true" href="https://www">FORMACIONES</a>
     <a id="contacto" contenteditable="true" href="https://www">CONTACTO</a>
   </div>
   <div id="menu-right">
-    <a id="" contenteditable="true" href="https://www">LINK1</a>
-    <a id="menu-logo" contenteditable="true" href="https://www">LINK1</a>
+    <a id="chat" contenteditable="true" href="https://www">CHAT</a>
+    <a id="langues" contenteditable="true" href="https://www">LANGUES</a>
   </div>
 </div>
 </div><script id="htJiGAC" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
