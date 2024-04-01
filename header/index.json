@@ -5,10 +5,11 @@
   background: black;
   height: 100px;
   gap: 100px;
-  color:white;
+  color: white;
   place-content: center;
 }
-#menu-right {
+
+#menu-left{
   gap: 15px;
   display: flex;
   place-content: center;
