@@ -3,7 +3,6 @@
   grid-template-columns: auto auto auto;
   width: 100%;
   background: black;
-  color: white!important;
   height: 100px;
   gap: 100px;
   place-content: center;
