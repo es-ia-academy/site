@@ -14,10 +14,12 @@
   gap: 15px;
   display: flex;
   place-content: center;
+  place-items:center;
 }
+
 #menu-logo {
-    height:100px;
-    width:100px;
+  height: 100px;
+  width: 100px;
 }
 
 #menu-center {
