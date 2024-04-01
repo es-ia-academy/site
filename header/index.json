@@ -86,7 +86,12 @@
   </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
   <section id="LxyIqZS" data-type="section">
       <style id="OogasER" type="text/css" data-type="css"></style>
-      <div id="nXErGzK" data-type="html"></div>
+      <div id="nXErGzK" data-type="html"><div id="menu">
+  <div id="menu-left"></div>
+  <div id="menu-center"></div>
+  <div id="menu-right"></div>
+</div>
+</div>
       <script id="htJiGAC" data-type="js"></script>
       <button class="toolbar-open" onclick="toolsOpenModal(this)">
         <img src="../global/file/edit-section.svg">
