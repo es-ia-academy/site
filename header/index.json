@@ -1,42 +1,131 @@
 <section id="KnCRULH" data-type="section">
-      <style id="ufCZJkv" type="text/css" data-type="css">
-        
-    @media screen and (min-width:0px){#KnCRULH{position:sticky;top:0;z-index:100;}}
-    @media screen and (min-width:0px){#vPsMErS{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
-    @media screen and (min-width:0px){#nHdeVWm{}}
-    @media screen and (min-width:0px){#TkgokJl{height:100px;width:auto;object-fit:contain}}
-    @media screen and (min-width:0px){#tSZzVCv{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
-    @media screen and (min-width:0px){#KjadUFI{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
-    @media screen and (min-width:0px){#uVbFoZj{height:auto;}}
-    @media screen and (min-width:0px){#jYAapmM{height:auto;padding:10px;border:none;border-radius:10px;}}
-    @media screen and (max-width:640px){#tSZzVCv{display:none;}}
-    @media screen and (max-width:640px){#vPsMErS{grid-template-columns:repeat(2, auto); place-content:space-around;}}
-    
-    
-    
-      </style>
-      
-        <div id="vPsMErS" data-type="raw-html">
-            <div id="nHdeVWm">
-              <img id="TkgokJl" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy">
-            </div>
+  <style id="ufCZJkv" type="text/css" data-type="css">
+    @media screen and (min-width:0px)
+    {
+      #KnCRULH
+      {
+        position: sticky;
+        top: 0;
+        z-index: 100;
+      }
+    }
 
-            <div id="tSZzVCv">
-              <a id="SghpTnP" contenteditable="true" href="https://www">INICIO</a>
-              <a id="qVMBQFx" contenteditable="true" href="https://www">IA GENERATIVA</a> 
-              <a id="wLAIqPT" contenteditable="true" href="https://www">FORMACIONES</a> 
-              <a id="rdeSJXO" contenteditable="true" href="https://www">CONTACTO</a> 
-              <a id="PpuTeJb" contenteditable="true" href="https://www">BLOG</a>  
-            </div>
+    @media screen and (min-width:0px)
+    {
+      #vPsMErS
+      {
+        background: #263238;
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        place-content: center;
+        align-items: center;
+        gap: 20px;
+      }
+    }
 
-            <div id="uVbFoZj">
-              <button id="jYAapmM">MENU</button>
-            </div>
-        </div>
+    @media screen and (min-width:0px)
+    {
+      #nHdeVWm
+      {}
+    }
 
-        <script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello')}</script>
+    @media screen and (min-width:0px)
+    {
+      #TkgokJl
+      {
+        height: 100px;
+        width: auto;
+        object-fit: contain
+      }
+    }
 
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg" data-type="img-edit">
-      </button>
-  </section>
+    @media screen and (min-width:0px)
+    {
+      #tSZzVCv
+      {
+        display: flex;
+        gap: 20px;
+        place-items: center;
+        margin-right: 20px;
+        color: white;
+        font-size: 12px;
+      }
+    }
+
+    @media screen and (min-width:0px)
+    {
+      #KjadUFI
+      {
+        background-color: white;
+        border: none;
+        border-radius: 10px;
+        height: auto;
+        width: auto;
+        padding: 10px;
+      }
+    }
+
+    @media screen and (min-width:0px)
+    {
+      #uVbFoZj
+      {
+        height: auto;
+      }
+    }
+
+    @media screen and (min-width:0px)
+    {
+      #jYAapmM
+      {
+        height: auto;
+        padding: 10px;
+        border: none;
+        border-radius: 10px;
+      }
+    }
+
+    @media screen and (max-width:640px)
+    {
+      #tSZzVCv
+      {
+        display: none;
+      }
+    }
+
+    @media screen and (max-width:640px)
+    {
+      #vPsMErS
+      {
+        grid-template-columns: repeat(2, auto);
+        place-content: space-around;
+      }
+    }
+
+  </style>
+  <div id="vPsMErS" data-type="html">
+    <div id="nHdeVWm">
+      <img id="TkgokJl" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy">
+    </div>
+    <div id="tSZzVCv">
+      <a id="SghpTnP" contenteditable="true" href="https://www">INICIO</a>
+      <a id="qVMBQFx" contenteditable="true" href="https://www">IA
+        GENERATIVA</a>
+      <a id="wLAIqPT" contenteditable="true" href="https://www">FORMACIONES</a>
+      <a id="rdeSJXO" contenteditable="true" href="https://www">CONTACTO</a>
+      <a id="PpuTeJb" contenteditable="true" href="https://www">BLOG</a>
+    </div>
+    <div id="uVbFoZj">
+      <button id="jYAapmM">MENU</button>
+    </div>
+  </div>
+  <script id="acdfr1457" data-type="js">
+    function sayHello()
+    {
+      alert('hello')
+    }
+
+  </script>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg" data-type="img-edit">
+  </button>
+</section>
