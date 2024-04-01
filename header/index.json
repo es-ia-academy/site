@@ -77,13 +77,22 @@
     grid-template-columns: repeat(2, auto);
     place-content: space-around;
   }
-}</style><div id="vPsMErS" data-type="html"><div id="nHdeVWm"><img id="TkgokJl" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy"></div>
-<div id="tSZzVCv"><a id="SghpTnP" contenteditable="true" href="https://www">INICIO</a><a id="qVMBQFx" contenteditable="true" href="https://www">IA GENERATIVA</a><a id="wLAIqPT" contenteditable="true" href="https://www">FORMACIONES</a><a id="rdeSJXO" contenteditable="true" href="https://www">CONTACTO</a><a id="PpuTeJb" contenteditable="true" href="https://www">BLOG</a></div>
-<div id="uVbFoZj"><button id="jYAapmM" contenteditable="true">MENU</button></div>
-</div><script id="acdfr1457" data-type="js">
+}</style><div id="vPsMErS" data-type="html"><div id="nHdeVWm"><img id="TkgokJl" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy"></div><div id="tSZzVCv"><a id="SghpTnP" contenteditable="true" href="https://www">INICIO</a><a id="qVMBQFx" contenteditable="true" href="https://www">IA GENERATIVA</a><a id="wLAIqPT" contenteditable="true" href="https://www">FORMACIONES</a><a id="rdeSJXO" contenteditable="true" href="https://www">CONTACTO</a><a id="PpuTeJb" contenteditable="true" href="https://www">BLOG</a></div><div id="uVbFoZj"><button id="jYAapmM" contenteditable="true">MENU</button></div></div><script id="acdfr1457" data-type="js">
     function sayHello()
     {
       alert('hello')
     }
 
   </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
+  <section id="FPYzBMK" data-type="section">
+      <style id="WjGXlVt" type="text/css" data-type="css"></style>
+      <div id="trVIpRg" data-type="html"><div id="menu">
+  <div id="menu-right">
+  </div>
+</div>
+</div>
+      <script id="exxmYxp" data-type="js"></script>
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg">
+      </button>
+  </section>
