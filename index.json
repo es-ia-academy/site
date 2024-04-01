@@ -26,7 +26,7 @@
 </div>
 <div id="qzBuTcc">
   <a id="keQVLFv" contenteditable="true" href="https://www">CHAT</a>
-  <div id="dropdown_div"><a id="dropdown_open" contenteditable="true" href="#" onclick="dropdown_open('dropdown_list')"><img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg"> ES </a>
+  <div id="dropdown_div"><a id="dropdown_open" contenteditable="true" href="#" onclick="dropdown_open('dropdown_list')"><img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg" data-type="img-grid"> ES </a>
     <div id="dropdown_list" style="display:none">
       <a id="a-es" contenteditable="true" href="#"> ES <img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg"></a>
     </div>
