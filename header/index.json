@@ -83,16 +83,13 @@
       alert('hello')
     }
 
-  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
-  <section id="FPYzBMK" data-type="section">
-      <style id="WjGXlVt" type="text/css" data-type="css"></style>
-      <div id="trVIpRg" data-type="html"><div id="menu">
-  <div id="menu-right">
+  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="FPYzBMK" data-type="section">
+  <style id="WjGXlVt" type="text/css" data-type="css"></style>
+  <div id="trVIpRg" data-type="html">
+    <div id="menu">
+      <div id="menu-right"></div>
+    </div>
   </div>
-</div>
-</div>
-      <script id="exxmYxp" data-type="js"></script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg">
-      </button>
-  </section>
+  <script id="exxmYxp" data-type="js"></script>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+</section>
