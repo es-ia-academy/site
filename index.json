@@ -1,4 +1,45 @@
-<section id="MidhHYg" data-type="section"><style id="zazcvJe" type="text/css" data-type="css">@media screen and (min-width:0px){#a-it{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
+<section id="bPzDibw" data-type="section">
+      <style id="DHavkES" type="text/css" data-type="css">
+        
+    @media screen and (min-width:0px){#bPzDibw{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#aBkgoOW{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
+    @media screen and (min-width:0px){#PKrEefg{}}
+    @media screen and (min-width:0px){#dQsJkML{height:100px;width:auto;object-fit:contain}}
+    @media screen and (min-width:0px){#zHwTziC{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    @media screen and (min-width:0px){#PDeOveg{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
+    @media screen and (min-width:0px){#CpxMEWN{height:auto;}}
+    @media screen and (min-width:0px){#AIYkOiG{height:auto;padding:10px;border:none;border-radius:10px;}}
+    @media screen and (max-width:640px){#zHwTziC{display:none;}}
+    @media screen and (max-width:640px){#aBkgoOW{grid-template-columns:repeat(2, auto); place-content:space-around;}}
+    
+    
+    
+      </style>
+      
+        <div id="aBkgoOW" data-type="html">
+            <div id="PKrEefg">
+              <img id="dQsJkML" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
+            </div>
+
+            <div id="zHwTziC">
+              <a id="aScZSOA" contenteditable="true" href="https://www">HOME</a>
+              <a id="jIPHVzO" contenteditable="true" href="https://www">ABOUT</a> 
+              <a id="CCdDuzB" contenteditable="true" href="https://www">SERVICES</a> 
+              <a id="xPkYREO" contenteditable="true" href="https://www">CONTACT</a> 
+              <a id="fZcSYuj" contenteditable="true" href="https://www">BLOG</a>  
+            </div>
+
+            <div id="CpxMEWN">
+              <button id="AIYkOiG">MENU</button>
+            </div>
+        </div>
+
+        <script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello')}</script>
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
+  </section><section id="MidhHYg" data-type="section"><style id="zazcvJe" type="text/css" data-type="css">@media screen and (min-width:0px){#a-it{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
 @media screen and (min-width:0px){#img-it{object-fit:contain;height:20px;width:20px;}}
 @media screen and (min-width:0px){#a-es{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
 @media screen and (min-width:0px){#img-es{object-fit:contain;height:20px;width:20px;}}
@@ -16,8 +57,7 @@
     @media screen and (min-width:0px){#qzBuTcc{height:auto;display:flex;gap:10px;}}
     @media screen and (min-width:0px){#bVlMLPg{height:auto;padding:10px;border:none;border-radius:10px;}}
     @media screen and (max-width:640px){#VjcbwaF{display:none;}}
-    @media screen and (max-width:640px){#RNwbwYr{grid-template-columns:repeat(2, auto); place-content:space-around;}}</style><div id="RNwbwYr" data-type="raw-html"><section id="MidhHYg" data-type="section">
-  <style id="zazcvJe" type="text/css" data-type="css">
+    @media screen and (max-width:640px){#RNwbwYr{grid-template-columns:repeat(2, auto); place-content:space-around;}}</style><div id="RNwbwYr" data-type="raw-html"><section id="MidhHYg" data-type="section"><style id="zazcvJe" type="text/css" data-type="css">
     @media screen and (min-width:0px){#a-it{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
     @media screen and (min-width:0px){#img-it{object-fit:contain;height:20px;width:20px;}}
     @media screen and (min-width:0px){#a-es{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
@@ -37,17 +77,7 @@
         @media screen and (min-width:0px){#bVlMLPg{height:auto;padding:10px;border:none;border-radius:10px;}}
         @media screen and (max-width:640px){#VjcbwaF{display:none;}}
         @media screen and (max-width:640px){#RNwbwYr{grid-template-columns:repeat(2, auto); place-content:space-around;}}
-  </style>
-  <div id="RNwbwYr" data-type="html">
-    <div id="hiBSxnZ"><img id="zhsBoyJ" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy"></div>
-    <div id="VjcbwaF"><a id="MkaGmiu" contenteditable="true" href="https://www">INICIO</a><a id="xOLIyaR" contenteditable="true" href="https://www">IA GENERATIVA</a><a id="canqpCX" contenteditable="true" href="https://www">FORMACIONES</a><a id="kurYRiH" contenteditable="true" href="https://www">BLOG</a><a id="imUWaZN" contenteditable="true" href="https://www">CONTACT</a></div>
-    <div id="qzBuTcc"><a id="keQVLFv" contenteditable="true" href="https://www">CHAT</a>
-      <div id="dropdown_div"><a id="dropdown_open" contenteditable="true" href="#" onclick="dropdown_open('dropdown_list')"><img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg" data-type="img-grid"> ES </a>
-        <div id="dropdown_list" style="display:none"><a id="a-es" contenteditable="true" href="#"> ES <img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg"></a></div>
-      </div>
-    </div>
-  </div>
-  <script id="acdfr1457" data-type="raw-js">
+  </style><div id="RNwbwYr" data-type="html"><div id="hiBSxnZ"><img id="zhsBoyJ" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy"></div><div id="VjcbwaF"><a id="MkaGmiu" contenteditable="true" href="https://www">INICIO</a><a id="xOLIyaR" contenteditable="true" href="https://www">IA GENERATIVA</a><a id="canqpCX" contenteditable="true" href="https://www">FORMACIONES</a><a id="kurYRiH" contenteditable="true" href="https://www">BLOG</a><a id="imUWaZN" contenteditable="true" href="https://www">CONTACT</a></div><div id="qzBuTcc"><a id="keQVLFv" contenteditable="true" href="https://www">CHAT</a><div id="dropdown_div"><a id="dropdown_open" contenteditable="true" href="#" onclick="dropdown_open('dropdown_list')"><img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg" data-type="img-grid"> ES </a><div id="dropdown_list" style="display:none"><a id="a-es" contenteditable="true" href="#"> ES <img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg"></a></div></div></div></div><script id="acdfr1457" data-type="raw-js">
     function dropdown_open(dropdown_id)
     {
       var dropdown = document.getElementById(dropdown_id);
@@ -61,9 +91,7 @@
       }
     }
 
-  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button>
-</section>
-</div><script id="acdfr1457" data-type="raw-js">function dropdown_open(dropdown_id)
+  </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section></div><script id="acdfr1457" data-type="raw-js">function dropdown_open(dropdown_id)
 {
   var dropdown = document.getElementById(dropdown_id);
   if (dropdown.style.display === "none" || !dropdown.style.display)
