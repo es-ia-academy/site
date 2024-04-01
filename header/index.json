@@ -85,7 +85,7 @@
 
   </script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="LxyIqZS" data-type="section"><style id="OogasER" type="text/css" data-type="css"></style><div id="nXErGzK" data-type="html"><div id="menu">
   <div id="menu-left">
-    <a id="SghpTnP" contenteditable="true" href="https://www">LOGO</a>
+    <a id="menu-logo" contenteditable="true" href="https://www">LOGO</a>
   </div>
   <div id="menu-center"></div>
   <div id="menu-right"></div>
