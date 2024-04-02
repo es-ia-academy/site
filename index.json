@@ -581,7 +581,8 @@
   display: grid;
   place-content: center;
   color: white;
-  font-size: clamp(2rem, 3vw, 4rem);;
+  font-size: clamp(2rem, 3vw, 4rem);
+  font-weight:200;
 }
 </style>
   <div id="mIiIIJY" data-type="html"><h2 id="RuelylA" contenteditable="true">Formaciones IA</h2></div><!-- container -->
