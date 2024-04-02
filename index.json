@@ -576,7 +576,7 @@
   </button>
 </section><section id="CGALkmS" data-type="section" class="grid-item">
   <style id="ZCPJkrP" type="text/css" data-type="css">#RuelylA {
-  height: 50px;
+  height: 100px;
   background: red;
   display: grid;
   place-content: center;
