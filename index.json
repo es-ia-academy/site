@@ -16,11 +16,7 @@
   place-items: center;
 }
 
-@media screen and (max-width: 640px) {
-  #menu-center {
-    display: none;
-  }
-}
+
 
 #menu-left {
   gap: 15px;
@@ -40,6 +36,11 @@
   gap: 15px;
   display: flex;
   place-content: center;
+}
+@media screen and (max-width: 640px) {
+  #menu-center {
+    display: none;
+  }
 }
 
 #menu-right {
