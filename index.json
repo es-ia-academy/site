@@ -527,7 +527,7 @@
   color: white;
   font-size: clamp(2rem, 3vw, 4rem);
   font-weight: 200;
-  margin-top:-35px;
+  margin-bottom:-35px;
 }
 </style><div id="mIiIIJY" data-type="html"><h2 id="RuelylA" contenteditable="true">Formaciones IA</h2></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg"></button></section><section id="HHivhyW" data-type="section"><style id="ckhRMDk" type="text/css" data-type="css">@media screen and (min-width:0px){#RfZxcBo{border: 3px solid black;padding: 0 15px;color: black;font-size: 14px;border-radius: 10px;text-underline-position: under;height: 50px;display: grid;place-content: center;}}
 @media screen and (min-width:0px){#iodHWeE{border: 3px solid #c6d8db;background: white;padding: 0 15px;color: black;font-size: 14px;border-radius: 10px;text-underline-position: under;height: 50px;display: grid;place-content: center;}}
