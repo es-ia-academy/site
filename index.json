@@ -33,7 +33,7 @@
 #menu-open {
   height: 80px;
   width: 80px;
-
+  aspect-ratio: 1 / 1;
   object-fit: contain;
 }
 
