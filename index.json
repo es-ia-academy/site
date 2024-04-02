@@ -576,11 +576,7 @@
   </button>
 </section><section id="CGALkmS" data-type="section" class="grid-item">
   <style id="ZCPJkrP" type="text/css" data-type="css"></style>
-  <div id="mIiIIJY" data-type="html"><div id="Mlmewrm" data-type="content">
-  <div id="aySwKXv">
-    <h2 id="RuelylA" contenteditable="true">Formaciones IA</h2>
-  </div>
-</div></div><!-- container -->
+  <div id="mIiIIJY" data-type="html"><h2 id="RuelylA" contenteditable="true">Formaciones IA</h2></div><!-- container -->
   <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;">
     <img src="../global/file/edit-section.svg">
   </button>
