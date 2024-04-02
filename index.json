@@ -578,6 +578,8 @@
   <style id="ZCPJkrP" type="text/css" data-type="css">#RuelylA{
     height:50px;
     background:red;
+    display:grid;
+    place-content:center;
 }</style>
   <div id="mIiIIJY" data-type="html"><h2 id="RuelylA" contenteditable="true">Formaciones IA</h2></div><!-- container -->
   <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;">
