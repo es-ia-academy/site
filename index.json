@@ -52,8 +52,7 @@
     grid-template-columns: auto auto;
   }
 
-  #menu-center,
-  #menu-title {
+  #menu-center {
     display: none;
   }
 }
