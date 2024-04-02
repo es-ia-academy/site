@@ -580,7 +580,7 @@
   background: red;
   display: grid;
   place-content: center;
-  margin: -35px;
+
 }
 </style>
   <div id="mIiIIJY" data-type="html"><h2 id="RuelylA" contenteditable="true">Formaciones IA</h2></div><!-- container -->
