@@ -524,8 +524,15 @@
   background: red;
   display: grid;
   place-content: center;
-  color: white;
+}
+#RuelylA{
+    color: white;
   font-size: clamp(2rem, 3vw, 4rem);
+  font-weight: 200;
+}
+#RuelylB{
+    color: white;
+  font-size: 2rem;
   font-weight: 200;
 }
 </style><div id="mIiIIJY" data-type="html"><div id="formaciones-section">
