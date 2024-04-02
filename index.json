@@ -525,13 +525,15 @@
   display: grid;
   place-content: center;
 }
-#RuelylA{
-    color: white;
+
+#RuelylA {
+  color: white;
   font-size: clamp(2rem, 3vw, 4rem);
   font-weight: 200;
 }
-#RuelylB{
-    color: white;
+
+#RuelylB {
+  color: white;
   font-size: 2rem;
   font-weight: 200;
 }
