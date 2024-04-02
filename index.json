@@ -73,9 +73,8 @@
     <a id="contacto" contenteditable="true" href="https://www">CHAT</a>
   </div>
   <div id="menu-right">
-    <a id="chat" contenteditable="true" href="https://www">ES</a>
-    <a id="langues" contenteditable="true" href="https://www">FR</a>
-    <img id="menu-open" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/menu-alt-03-svgrepo-com_80x80.png" data-type="img-grid" loading="lazy">
+    <a id="menu-txt" contenteditable="true" href="https://www">MENU</a>
+    <img id="menu-img" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/menu-alt-03-svgrepo-com_80x80.png" data-type="img-grid" loading="lazy">
   </div>
 </div></div><script id="htJiGAC" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="DoaSYKf" data-type="section" class="grid-item"><style id="bNmqQWZ" type="text/css" data-type="css">
     @media screen and (min-width:0px)
