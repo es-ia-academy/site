@@ -29,6 +29,9 @@
   width: 80px;
   aspect-ratio: 1 / 1;
   object-fit: contain;
+  border-radius: 50%;
+  border: 3px solid white;
+  padding: 5px;
 }
 
 #menu-open {
