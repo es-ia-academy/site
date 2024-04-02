@@ -1,5 +1,5 @@
 <section id="LxyIqZS" data-type="section"><style id="OogasER" type="text/css" data-type="css">#LxyIqZS {
-  position: stickyyyyyyy;
+  position: sticky;
   top: 0;
   z-index: 1;
 }
