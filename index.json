@@ -576,13 +576,13 @@
   </button>
 </section><section id="CGALkmS" data-type="section" class="grid-item">
   <style id="ZCPJkrP" type="text/css" data-type="css">#RuelylA {
-  height: 100px;
+  height: 200px;
   background: red;
   display: grid;
   place-content: center;
   color: white;
   font-size: clamp(2rem, 3vw, 4rem);
-  font-weight:200;
+  font-weight: 200;
 }
 </style>
   <div id="mIiIIJY" data-type="html"><h2 id="RuelylA" contenteditable="true">Formaciones IA</h2></div><!-- container -->
