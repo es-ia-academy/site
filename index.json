@@ -10,7 +10,7 @@
   width: 100%;
   background: black;
   height: 100px;
-  gap: 100px;
+  gap: 20px;
   color: white;
   place-content: normal;
   place-items: center;
