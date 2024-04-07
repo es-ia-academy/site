@@ -914,20 +914,132 @@
   <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;">
     <img src="../global/file/edit-section.svg" data-type="img-edit">
   </button>
-</section><section id="DjJUpRO" data-type="section"><style id="UkzZWhl" type="text/css" data-type="css">@media screen and (min-width:0px){#ctfufm1{background: #ffdd00;width: fit-content;padding: 5px;font-size: 12px;font-weight: 600;border-radius: 5px;}}
-@media screen and (min-width:0px){#fDBURAS{border: 3px solid #c6d8db;background: white;padding: 0 15px;color: black;font-size: 14px;border-radius: 10px;text-underline-position: under;height: 50px;display: grid;place-content: center;}}
-@media screen and (min-width:0px){#DjJUpRO{width:100%;min-height:50vh;position:relative;}}
+</section><section id="DjJUpRO" data-type="section">
+  <style id="UkzZWhl" type="text/css" data-type="css">
+  @media screen and (min-width:0px) {
+    #ctfufm1 {
+      background: #ffdd00;
+      width: fit-content;
+      padding: 5px;
+      font-size: 12px;
+      font-weight: 600;
+      border-radius: 5px;
+    }
+  }
 
-    @media screen and (min-width:0px){#LZeMetr{width:100%;height:50vh;display:grid;grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#UzxbApb{object-fit:cover;height:50vh;width:100%;background:white;order:1;}}
-    @media screen and (min-width:0px){#aKcvCnA{display:grid;place-content:center;background:#f3f8f8;}}
-    @media screen and (min-width:0px){#ctfufmx{font-size: clamp(2rem,3vw,4rem);line-height:1;}}
-    @media screen and (min-width:0px){#BCLQnup{font-size:1rem;}}
-    @media screen and (min-width:0px){#ndeVZcS{display:flex;gap:15px;}}
+  @media screen and (min-width:0px) {
+    #fDBURAS {
+      border: 3px solid #c6d8db;
+      background: white;
+      padding: 0 15px;
+      color: black;
+      font-size: 14px;
+      border-radius: 10px;
+      text-underline-position: under;
+      height: 50px;
+      display: grid;
+      place-content: center;
+    }
+  }
 
-    @media screen and (max-width:640px){#LZeMetr{width:100%;height:max-content;display:grid;grid-template-columns:1fr;}}
-    @media screen and (max-width:640px){#UzxbApb{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;order:1;}}
-    @media screen and (max-width:640px){#aKcvCnA{min-height:50vh; display:grid;place-content:center;padding:10%;background:white;}}</style><div id="LZeMetr" data-type="grid" class="grid-section"><img id="UzxbApb" src="https://images.unsplash.com/photo-1676573409967-986dcf64d35a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHxjaGF0Ym90fGVufDB8MHx8fDE3MTExODcwODJ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><div id="aKcvCnA" class="grid-item grid-text"><p id="ctfufm1" contenteditable="true">Modulo 4</p><h2 id="ctfufmx" contenteditable="true">IA Assistant Expert</h2><p id="BCLQnup" contenteditable="true">Si tu objetivo es desarrollar asistentes virtuales personalizados, entrenados con datos específicos de tu negocio para ofrecer respuestas precisas a clientes o empleados ya sea en tu empresa, comercio o página web, esta formación está diseñada especialmente para ti.</p><div id="ndeVZcS"></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="kNaoFlw" data-type="section"><style id="QssSbPr" type="text/css" data-type="css">@media screen and (min-width:0px){#PUFgjr1{background: #ffdd00;width: fit-content;padding: 5px;font-size: 12px;font-weight: 600;border-radius: 5px;}}
+  @media screen and (min-width:0px) {
+    #DjJUpRO {
+      width: 100%;
+      min-height: 50vh;
+      position: relative;
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #LZeMetr {
+      width: 100%;
+      height: 50vh;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #UzxbApb {
+      object-fit: cover;
+      height: 50vh;
+      width: 100%;
+      background: white;
+      order: 1;
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #aKcvCnA {
+      display: grid;
+      place-content: center;
+      background: #f3f8f8;
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #ctfufmx {
+      font-size: clamp(2rem, 3vw, 4rem);
+      line-height: 1;
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #BCLQnup {
+      font-size: 1rem;
+    }
+  }
+
+  @media screen and (min-width:0px) {
+    #ndeVZcS {
+      display: flex;
+      gap: 15px;
+    }
+  }
+
+  @media screen and (max-width:640px) {
+    #LZeMetr {
+      width: 100%;
+      height: max-content;
+      display: grid;
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media screen and (max-width:640px) {
+    #UzxbApb {
+      object-fit: cover;
+      height: 100%;
+      min-height: 50vh;
+      width: 100%;
+      display: grid;
+      order: 1;
+    }
+  }
+
+  @media screen and (max-width:640px) {
+    #aKcvCnA {
+      min-height: 50vh;
+      display: grid;
+      place-content: center;
+      padding: 10%;
+      background: white;
+    }
+  }
+  </style>
+  <div id="LZeMetr" data-type="grid" class="grid-section">
+    <img id="UzxbApb" src="https://images.unsplash.com/photo-1676573409967-986dcf64d35a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHxjaGF0Ym90fGVufDB8MHx8fDE3MTExODcwODJ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
+    <div id="aKcvCnA" class="grid-item grid-text">
+      <p id="ctfufm1" contenteditable="true">Modulo 4</p>
+      <h2 id="ctfufmx" contenteditable="true">IA Assistant Expert</h2>
+      <p id="BCLQnup" contenteditable="true">Si tu objetivo es desarrollar asistentes virtuales personalizados, entrenados con datos específicos de tu negocio para ofrecer respuestas precisas a clientes o empleados ya sea en tu empresa, comercio o página web, esta formación está diseñada especialmente para ti.</p>
+      <div id="ndeVZcS"></div>
+    </div>
+  </div>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;">
+    <img src="../global/file/edit-section.svg" data-type="img-edit">
+  </button>
+</section><section id="kNaoFlw" data-type="section"><style id="QssSbPr" type="text/css" data-type="css">@media screen and (min-width:0px){#PUFgjr1{background: #ffdd00;width: fit-content;padding: 5px;font-size: 12px;font-weight: 600;border-radius: 5px;}}
 @media screen and (min-width:0px){#snfhEmu{border: 3px solid #c6d8db;background: white;padding: 0 15px;color: black;font-size: 14px;border-radius: 10px;text-underline-position: under;height: 50px;display: grid;place-content: center;}}
 @media screen and (min-width:0px){#kNaoFlw{width:100%;min-height:50vh;position:relative;}}
 
