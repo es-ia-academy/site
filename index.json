@@ -904,15 +904,13 @@
     }
   }
   </style>
-  <div id="MneRIdI" data-type="html" class="grid-section">
-    <img id="lzejqus" src="https://images.unsplash.com/photo-1659083726524-9a341327fd99?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxN3x8bWljJTIwdm9pY2V8ZW58MHwwfHx8MTcxMTE5MzA0Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
-    <div id="FLpPfob" class="grid-item grid-text">
-      <p id="SXWxJf1" contenteditable="true">Modulo 3</p>
-      <h2 id="SXWxJfv" contenteditable="true">IA Audio Expert</h2>
-      <p id="roRqDBO" contenteditable="true">Esta formación te capacitará para diseñar voces, componer música, producir podcasts y generar sonidos de diversa índole en cualquier idioma, todos con una calidad excepcional, elevando así el nivel de tus proyectos personales o los de tus clientes.</p>
-      <div id="WMynQjS"></div>
-    </div>
-  </div>
+  <div id="MneRIdI" data-type="html" class="grid-section"><img id="lzejqus" src="https://images.unsplash.com/photo-1659083726524-9a341327fd99?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxN3x8bWljJTIwdm9pY2V8ZW58MHwwfHx8MTcxMTE5MzA0Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
+<div id="FLpPfob" class="grid-item grid-text">
+  <p id="SXWxJf1" contenteditable="true">Modulo 3</p>
+  <h2 id="SXWxJfv" contenteditable="true">IA Audio Expert</h2>
+  <p id="roRqDBO" contenteditable="true"> Esta formación te capacitará para diseñar voces, componer música, producir podcasts y generar sonidos de diversa índole en cualquier idioma, todos con una calidad excepcional, elevando así el nivel de tus proyectos personales o los de tus clientes.</p>
+  <div id="WMynQjS"></div>
+</div></div>
   <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;">
     <img src="../global/file/edit-section.svg" data-type="img-edit">
   </button>
