@@ -1027,7 +1027,7 @@
     }
   }
   </style>
-  <div id="LZeMetr" data-type="grid" class="grid-section">
+  <div id="LZeMetr" data-type="html" class="grid-section">
     <img id="UzxbApb" src="https://images.unsplash.com/photo-1676573409967-986dcf64d35a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHxjaGF0Ym90fGVufDB8MHx8fDE3MTExODcwODJ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy">
     <div id="aKcvCnA" class="grid-item grid-text">
       <p id="ctfufm1" contenteditable="true">Modulo 4</p>
