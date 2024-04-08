@@ -29,9 +29,7 @@
   width: 80px;
   aspect-ratio: 1 / 1;
   object-fit: contain;
-  border-radius: 50%;
-  border: 3px solid white;
-  padding: 5px;
+  
 }
 
 #menu-open {
@@ -64,7 +62,7 @@
   place-content: center;
   place-items: center;
 }
-</style><div id="nXErGzK" data-type="html"><div id="menu-header"><div id="menu-left"><a contenteditable="true" href="./"><img id="menu-logo" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/ia-academy-ico_100x100.png" data-type="image" loading="lazy"></a><a id="menu-title" contenteditable="true" href="/">IA Academy</a></div><div id="menu-center"><a id="inicio" contenteditable="true" href="https://www">IA GENERATIVA</a><a id="formaciones" contenteditable="true" href="#formaciones-section">FORMACIONES</a><a id="contacto" contenteditable="true" href="https://www">CONTACT</a></div><div id="menu-right"><a id="menu-txt" contenteditable="true" href="https://www">MENU</a><img id="menu-img" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/menu-alt-03-svgrepo-com_80x80.png" data-type="image" loading="lazy"></div></div></div><script id="htJiGAC" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="DoaSYKf" data-type="section" class="grid-item"><style id="bNmqQWZ" type="text/css" data-type="css">
+</style><div id="nXErGzK" data-type="html"><div id="menu-header"><div id="menu-left"><a contenteditable="true" href="./"><img id="menu-logo" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/white-transpareent_200x200.png" data-type="image" loading="lazy"></a><a id="menu-title" contenteditable="true" href="/">IA Academy</a></div><div id="menu-center"><a id="inicio" contenteditable="true" href="https://www">IA GENERATIVA</a><a id="formaciones" contenteditable="true" href="#formaciones-section">FORMACIONES</a><a id="contacto" contenteditable="true" href="https://www">CONTACT</a></div><div id="menu-right"><a id="menu-txt" contenteditable="true" href="https://www">MENU</a><img id="menu-img" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/menu-alt-03-svgrepo-com_80x80.png" data-type="image" loading="lazy"></div></div></div><script id="htJiGAC" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="DoaSYKf" data-type="section" class="grid-item"><style id="bNmqQWZ" type="text/css" data-type="css">
     @media screen and (min-width:0px)
     {
       #DoaSYKf
@@ -1111,8 +1109,7 @@
       background: white;
     }
   }
-  </style><div id="NnDYKwg" data-type="grid" class="grid-section"><img id="MbqabuH" src="https://images.unsplash.com/photo-1487014679447-9f8336841d58?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHx3ZWJzaXRlfGVufDB8MHx8fDE3MTExOTMwOTZ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"><div id="cbjTgjq" class="grid-item grid-text"><p id="PUFgjr1" contenteditable="true">Modulo 5</p><h2 id="PUFgjrh" contenteditable="true">IA Web Expert</h2><p id="QaksWab" contenteditable="true">Si tienes pasión por desarrollar blogs, sitios web o plataformas de e-commerce con una velocidad superior, en esta formación te revelaremos cómo aprovechar la inteligencia artificial para generar contenido de manera más ágil y eficiente, dándote la ventaja competitiva que necesitas para sobresalir en el mercado.</p><div id="MRSehTC"></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="AnOlcHO" data-type="section">
-  <style id="HwfbGgs" type="text/css" data-type="css">
+  </style><div id="NnDYKwg" data-type="grid" class="grid-section"><img id="MbqabuH" src="https://images.unsplash.com/photo-1487014679447-9f8336841d58?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHx3ZWJzaXRlfGVufDB8MHx8fDE3MTExOTMwOTZ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="image" loading="lazy"><div id="cbjTgjq" class="grid-item grid-text"><p id="PUFgjr1" contenteditable="true">Modulo 5</p><h2 id="PUFgjrh" contenteditable="true">IA Web Expert</h2><p id="QaksWab" contenteditable="true">Si tienes pasión por desarrollar blogs, sitios web o plataformas de e-commerce con una velocidad superior, en esta formación te revelaremos cómo aprovechar la inteligencia artificial para generar contenido de manera más ágil y eficiente, dándote la ventaja competitiva que necesitas para sobresalir en el mercado.</p><div id="MRSehTC"></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="AnOlcHO" data-type="section"><style id="HwfbGgs" type="text/css" data-type="css">
   @media screen and (min-width:0px) {
     #MKpByr1 {
       background: #ffdd00;
@@ -1223,20 +1220,7 @@
       background: white;
     }
   }
-  </style>
-  <div id="KKDbQIU" data-type="html" class="grid-section">
-    <img id="GqcAqrM" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/1_O1-kbiXhih-EUB6HifvRTA_1400x924.png" data-type="image" loading="lazy">
-    <div id="aHRNQTO" class="grid-item grid-text">
-      <p id="MKpByr1" contenteditable="true">Modulo 6</p>
-      <h2 id="MKpByrl" contenteditable="true">IA Automation Expert</h2>
-      <p id="WaRNrEQ" contenteditable="true">Permite que la IA Generativa impulse tu eficiencia: esta formación te guiará en cómo sistematizar y enlazar tu negocio o sistema online con miles de aplicaciones web adaptadas a tus necesidades específicas. Aprende a trabajar no más duro, sino más inteligente.</p>
-      <div id="hVJUHgZ"></div>
-    </div>
-  </div>
-  <button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;">
-    <img src="../global/file/edit-section.svg" data-type="img-edit">
-  </button>
-</section><section id="lPoAbdb" data-type="section"><style id="IcNmdkF" type="text/css" data-type="css">
+  </style><div id="KKDbQIU" data-type="html" class="grid-section"><img id="GqcAqrM" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/1_O1-kbiXhih-EUB6HifvRTA_1400x924.png" data-type="image" loading="lazy"><div id="aHRNQTO" class="grid-item grid-text"><p id="MKpByr1" contenteditable="true">Modulo 6</p><h2 id="MKpByrl" contenteditable="true">IA Automation Expert</h2><p id="WaRNrEQ" contenteditable="true">Permite que la IA Generativa impulse tu eficiencia: esta formación te guiará en cómo sistematizar y enlazar tu negocio o sistema online con miles de aplicaciones web adaptadas a tus necesidades específicas. Aprende a trabajar no más duro, sino más inteligente.</p><div id="hVJUHgZ"></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="lPoAbdb" data-type="section"><style id="IcNmdkF" type="text/css" data-type="css">
   @media screen and (min-width:0px) {
     #WCGkak1 {
       background: #ffdd00;
