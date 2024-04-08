@@ -506,7 +506,16 @@
   font-size: 19px;
   font-weight: 300;
 }
-</style><div id="mIiIIJY" data-type="html"><div id="formaciones-section"><h2 id="RuelylA" contenteditable="true">Formaciones IA</h2><p id="RuelylB" contenteditable="true">Proxima fecha : 1 de Julio 2024</p></div></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg"></button></section><section id="HHivhyW" data-type="section"><style id="ckhRMDk" type="text/css" data-type="css">
+</style><div id="mIiIIJY" data-type="html">
+<div id="nyCAYLf1" data-type="bg-color" class="div-hidden">
+      <div id="qmPrRip2" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div>
+      <div id="sHvOVel3" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+      <div id="pYUCOoE4" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+    </div><!-- bg-color -->
+<div id="formaciones-section">
+  <h2 id="RuelylA" contenteditable="true">Formaciones IA</h2>
+  <p id="RuelylB" contenteditable="true">Proxima fecha : 1 de Julio 2024</p>
+</div></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)" style="visibility: visible;"><img src="../global/file/edit-section.svg"></button></section><section id="HHivhyW" data-type="section"><style id="ckhRMDk" type="text/css" data-type="css">
   @media screen and (min-width:0px) {
     #VpcFaZ1 {
       background: #ffdd00;
